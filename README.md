@@ -6,7 +6,6 @@ Some example
   
 ```
 code?
-
 ```
   
 </p>
